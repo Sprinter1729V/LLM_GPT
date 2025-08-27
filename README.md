@@ -1,6 +1,6 @@
 # Building LLMs 
 
-## https://colab.research.google.com/drive/1_7TNpEEl8xjHlr9JzKbK5AuDKXwAkHqj?usp=sharing
+## [https://colab.research.google.com/drive/1_7TNpEEl8xjHlr9JzKbK5AuDKXwAkHqj?usp=sharing](https://colab.research.google.com/drive/1GDieohGGko-jtWQsuMJfXkWkg47jQRT2#scrollTo=UQ8iLMWDXNA_)
 
 ## Research Papers:
 Attention is All You Need - https://arxiv.org/pdf/1706.03762.pdf
